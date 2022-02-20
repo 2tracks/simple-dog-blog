@@ -43,7 +43,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     # custom apps
     'crispy_forms',
-    'blog',
+    'blog'
 ]
 
 MIDDLEWARE = [
