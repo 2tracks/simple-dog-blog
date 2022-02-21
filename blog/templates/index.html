@@ -8,5 +8,7 @@
 
         <p>{{ post.intro }}</p>
         <a href="{% url 'detail' post.slug %}">Read more</a>
+        {% empty %}
+        <p>No blog post yet!</p>
     {% endfor %}
 {% endblock %}
