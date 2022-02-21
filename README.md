@@ -1,6 +1,6 @@
 # Simple Dog Blog
-![Simple Do Blog Fullscreen](./media/blogFS.png)
-![Simple Do Blog Mobilescreen](./media/blogMS.png)
+![Simple Dog Blog Fullscreen](./img/blogFS.png)
+![Simple Dog Blog Mobilescreen](./img/blogMS.png)
 Simple-dog-blog is a basic blog application in Django3, Python 3.6.10 and I used the Bulma framework for the Frontend. I deployed the application to Heroku. I kept the application basic as I wanted to test with 'collectstatic', static files. The blog has an Index page and a Detail page and you can look up posts by category. There are no static files only what comes with Bulma via cdn.
 
 You can find the Project on Heroku [Live Demo](https://simple-dog-blog.herokuapp.com/).
